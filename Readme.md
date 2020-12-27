@@ -1,7 +1,7 @@
 # WEblog
 WEblog is a blogging website. Do give it a try for good experience.
 
-<a href="{https://github.com/kritikaparmar-programmer/WEblog/blob/master/video/2020-12-27-19-10-49.mp4}" title="Link Title"><img src="{https://github.com/kritikaparmar-programmer/WEblog/blob/master/video/weblog_image.png}" alt="Alternate Text" /></a>
+[![Alt text for your video](https://github.com/kritikaparmar-programmer/WEblog/blob/master/video/weblog_image.png)](https://github.com/kritikaparmar-programmer/WEblog/blob/master/video/2020-12-27-19-10-49.mp4)
 
 ## Tech Stack
 - **Frontend:** HTML/CSS
