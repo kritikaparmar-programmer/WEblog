@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '37#(z)ayq0my_72ily#p-8d@14o_9x$@54^_f=h36g@4gix#ow'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kritika-weblog.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
